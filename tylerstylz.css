@@ -15,10 +15,20 @@ body
   {
     color: green;
   }
-  .header
+  #header
   {
-    margin:0;
-    padding:0;
+    height: 150px;
+    line-height: 150px;
     background-color: lightblue;
-    text-align: center;
+  }
+    #header li 
+    {
+      display: inline;
+      padding-left: 20px;
+    }
+
+  .container 
+  {
+    max-width: 1000px;
+    margin: 0 auto;
   }
