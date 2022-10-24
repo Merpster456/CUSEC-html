@@ -21,6 +21,17 @@ body
     line-height: 150px;
     background-color: lightblue;
   }
+  #header_title {
+    display: block;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  #header_nav {
+    display: block;
+    float: right;
+    margin-top: 0;
+  }
     #header li 
     {
       display: inline;
