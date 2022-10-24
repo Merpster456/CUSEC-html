@@ -2,7 +2,7 @@ body
 {
     background-color: lightblue;
     color: red;
-    font-family: "comic sans";
+    font-family:
 }
   
   h1 
@@ -13,4 +13,9 @@ body
   h2 
   {
     color: green;
+  }
+  header
+  {
+    background-color: yellow;
+    text-align: center;
   }
