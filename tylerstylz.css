@@ -16,6 +16,7 @@ body
   }
   .header
   {
-    background-color: yellow;
+    border: 0px outset red;
+    background-color: lightblue;
     text-align: center;
   }
