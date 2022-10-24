@@ -14,7 +14,7 @@ body
   {
     color: green;
   }
-  header
+  .header
   {
     background-color: yellow;
     text-align: center;
